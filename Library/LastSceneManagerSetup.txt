@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/jwana/Desktop/Everything Folder/My games/Jame Gam/Assets/Scene.unity
+- path: Assets/Scene.unity
   isLoaded: 1
   isActive: 1
